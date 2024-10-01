@@ -1,9 +1,8 @@
 package bootstrap
 
 import (
-	"github.com/joho/godotenv"
-
 	"github.com/gofiber/fiber/v2/log"
+	"github.com/joho/godotenv"
 
 	"github.com/MikelSot/tribal-training-auth/infrastructure/handler"
 	"github.com/MikelSot/tribal-training-auth/model"

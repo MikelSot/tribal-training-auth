@@ -3,6 +3,7 @@ package bootstrap
 import (
 	"errors"
 	"fmt"
+
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/log"
 	"github.com/golang-jwt/jwt/v4"
